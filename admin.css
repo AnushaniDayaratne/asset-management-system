@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+.header{
+    background-color: rgb(1, 1, 90);
+    line-height: 70px;
+    padding-left: 30px;
+}
+a,a:hover{
+    text-decoration: none!important;
+}
+.logout{
+    float: right;
+    padding-right: 30px;
+}
+ul{
+    background-color: rgb(1, 1, 90) ;
+    width: 16%;
+    height: 100%;
+    position: fixed;
+    padding-top: 5%;
+   
+}
+ul li{
+    list-style:none ;
+    padding-bottom: 30px;
+    font-weight: 15px;
+}
+ul li a{
+    color:white;
+    font-size: 12px;
+    font-weight: bold;
+
+}
+ul li a:hover{
+    color: skyblue;
+    text-decoration: none!important;
+}
+.content{
+    margin-left: 20%;
+    margin-top: 5%;
+}
